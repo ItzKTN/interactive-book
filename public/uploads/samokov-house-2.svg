@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 440" width="800" height="440">
+  <rect width="800" height="440" fill="#eadbc0"/>
+  <rect x="20" y="20" width="760" height="400" fill="none" stroke="#5a381e" stroke-width="3"/>
+  <!-- Left: 1894 Black Marble Relief; Right: 2015 Bronze Monument -->
+  <rect x="130" y="75" width="220" height="240" fill="#2b2623" stroke="#5a381e" stroke-width="4"/>
+  <circle cx="240" cy="155" r="42" fill="none" stroke="#d8c39e" stroke-width="2.5"/>
+  <text x="240" y="235" text-anchor="middle" fill="#f5ebd6" font-family="Georgia, serif" font-size="14" font-weight="bold">МРАМОРЕН РЕЛЕФ</text>
+  <text x="240" y="258" text-anchor="middle" fill="#d8c39e" font-family="Georgia, serif" font-size="13">ПГ „К. Фотинов“</text>
+  <text x="240" y="280" text-anchor="middle" fill="#c89d54" font-family="Georgia, serif" font-size="14" font-weight="bold">1894 г.</text>
+
+  <rect x="450" y="75" width="220" height="240" fill="#f5ebd6" stroke="#4a2e16" stroke-width="3"/>
+  <rect x="525" y="105" width="70" height="110" fill="#6b4423" stroke="#3d2512" stroke-width="2"/>
+  <text x="560" y="242" text-anchor="middle" fill="#2b1d0e" font-family="Georgia, serif" font-size="14" font-weight="bold">БРОНЗОВ МЕМОРИАЛ</text>
+  <text x="560" y="264" text-anchor="middle" fill="#5a381e" font-family="Georgia, serif" font-size="12">Сп. Киричев, М. Иванова,</text>
+  <text x="560" y="282" text-anchor="middle" fill="#5a381e" font-family="Georgia, serif" font-size="12">К. Киричева (2015 г.)</text>
+
+  <text x="400" y="368" text-anchor="middle" fill="#2b1d0e" font-family="Georgia, serif" font-size="20" font-weight="bold">ПАМЕТТА ЗА КОНСТАНТИН ФОТИНОВ В САМОКОВ</text>
+  <text x="400" y="395" text-anchor="middle" fill="#6b4423" font-family="Georgia, serif" font-size="13" font-style="italic">Барелефът от 1894 г. и Бронзовият мемориален комплекс от 2015 г.</text>
+</svg>

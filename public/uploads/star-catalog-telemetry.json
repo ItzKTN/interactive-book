@@ -1,0 +1,24 @@
+{
+  "epoch": "1889.42",
+  "observatory": "Glass Fjord Meridian",
+  "stars": [
+    {
+      "id": "ALPH-01",
+      "name": "Vega",
+      "ra": "18h36m56s",
+      "dec": "+38°47'01\""
+    },
+    {
+      "id": "CYGN-04",
+      "name": "Deneb",
+      "ra": "20h41m25s",
+      "dec": "+45°16'49\""
+    },
+    {
+      "id": "AQUI-09",
+      "name": "Altair",
+      "ra": "19h50m47s",
+      "dec": "+08°52'06\""
+    }
+  ]
+}

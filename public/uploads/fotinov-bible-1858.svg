@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500">
+  <rect width="800" height="500" fill="#e8d8b8"/>
+  <rect x="20" y="20" width="760" height="460" fill="none" stroke="#5a381e" stroke-width="3"/>
+  <!-- Open Manuscript Book -->
+  <path d="M 180 120 Q 290 105 400 130 Q 510 105 620 120 L 620 350 Q 510 335 400 360 Q 290 335 180 350 Z" fill="#fbf5e8" stroke="#4a2e16" stroke-width="3"/>
+  <line x1="400" y1="130" x2="400" y2="360" stroke="#4a2e16" stroke-width="2.5"/>
+  <text x="290" y="190" text-anchor="middle" fill="#3d2512" font-family="Georgia, serif" font-size="16" font-weight="bold">БИБЛИЯ</text>
+  <text x="290" y="220" text-anchor="middle" fill="#5a381e" font-family="Georgia, serif" font-size="13">Псалтир (1855)</text>
+  <text x="290" y="245" text-anchor="middle" fill="#5a381e" font-family="Georgia, serif" font-size="13">Битие (1857)</text>
+  <text x="510" y="190" text-anchor="middle" fill="#3d2512" font-family="Georgia, serif" font-size="16" font-weight="bold">ЦАРИГРАД</text>
+  <text x="510" y="220" text-anchor="middle" fill="#5a381e" font-family="Georgia, serif" font-size="14">29 ноември 1858 г.</text>
+  <text x="510" y="248" text-anchor="middle" fill="#6b4423" font-family="Georgia, serif" font-size="12" font-style="italic">Последен книжовен завет</text>
+  <text x="400" y="420" text-anchor="middle" fill="#2b1d0e" font-family="Georgia, serif" font-size="22" font-weight="bold">КНИЖОВНОТО НАСЛЕДСТВО ПРЕДИ СМЪРТТА МУ</text>
+  <text x="400" y="448" text-anchor="middle" fill="#6b4423" font-family="Georgia, serif" font-size="14" font-style="italic">Преводът на Светото писание на новобългарски език и „Общое землеописание“</text>
+</svg>

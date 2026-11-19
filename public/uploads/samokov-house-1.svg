@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 440" width="800" height="440">
+  <rect width="800" height="440" fill="#efe4ce"/>
+  <rect x="20" y="20" width="760" height="400" fill="none" stroke="#5a381e" stroke-width="3"/>
+  <!-- Samokov Convent & Historical Topography -->
+  <polygon points="160,165 400,70 640,165" fill="#6b3e26" stroke="#3d2512" stroke-width="3"/>
+  <rect x="190" y="165" width="420" height="165" fill="#f7efde" stroke="#3d2512" stroke-width="3"/>
+  <line x1="190" y1="250" x2="610" y2="250" stroke="#5a381e" stroke-width="4"/>
+  <rect x="235" y="185" width="48" height="48" fill="#d8c39e" stroke="#3d2512" stroke-width="2"/>
+  <rect x="315" y="185" width="48" height="48" fill="#d8c39e" stroke="#3d2512" stroke-width="2"/>
+  <rect x="435" y="185" width="48" height="48" fill="#d8c39e" stroke="#3d2512" stroke-width="2"/>
+  <rect x="515" y="185" width="48" height="48" fill="#d8c39e" stroke="#3d2512" stroke-width="2"/>
+  <path d="M 370 330 L 370 275 A 30 30 0 0 1 430 275 L 430 330 Z" fill="#5a381e"/>
+  <text x="400" y="372" text-anchor="middle" fill="#2b1d0e" font-family="Georgia, serif" font-size="20" font-weight="bold">ИСТОРИЧЕСКА ТОПОГРАФИЯ В САМОКОВ</text>
+  <text x="400" y="398" text-anchor="middle" fill="#6b4423" font-family="Georgia, serif" font-size="13" font-style="italic">Северозападно от Девическия манастир „Покров Богородичен“ (бащината къща не е оцеляла)</text>
+</svg>

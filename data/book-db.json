@@ -1,0 +1,1052 @@
+{
+  "bookTitle": "Константин Георгиев Фотинов (ок. 1785 – 1858)",
+  "bookAuthor": "Стоян Калчев и Константин Караниколов",
+  "bookDescription": "Монографично историко-филологическо изследване на живота, смирненското училище, сп. „Любословие“, материалната топография в Самоков и библейския превод на Константин Фотинов.",
+  "chapters": [
+    {
+      "id": "slide-1",
+      "slug": "prologue",
+      "title": " Памет за Константин Фотинов (ок. 1785 – 1858)",
+      "subtitle": "",
+      "order": 1,
+      "status": "published",
+      "readingTimeMinutes": 2,
+      "narratorAudioUrl": "",
+      "narratorTranscript": "Константин Георгиев Фотинов — монографично изследване, изготвено от Стоян Калчев и Константин Караниколов.",
+      "blocks": [
+        {
+          "id": "blk-1794654354744-ooab",
+          "type": "image",
+          "content": "",
+          "align": "left",
+          "mediaUrl": "/uploads/portrait-damyan-zaberski.jpg",
+          "mediaType": "image",
+          "caption": "Портрет на Константин Фотинов от Дамян Заберски",
+          "imageSize": "full",
+          "imageLayout": "full-page",
+          "pageSide": "left"
+        },
+        {
+          "id": "blk-1794655978529-hkwi",
+          "type": "collapsible",
+          "content": "    Роден е в град Самоков през 1785 година. Името на рода му идва от баба му Фота , която през 1778 година става монахиня и основава местния женски манастир в Самоков. Баща му е първенец в Пловдив, занимава се с абаджийство до 1830 година. Фотинов първоначално учи в местното килийно училище, а след това продължава образованието си в Пловдив и Смирна. \n    Получава начално образование първо в Женския, а после в Светогорския метох в Самоков. Между 1795 и 1814 година Фотинов учи при Константин Икономос в пловдивското централно елинско училище. Библиотека на училището оказва влияние върху формирането му като историк, географ, философ и езиковед. Продължава образованието си в Смирна, където прекарва останалата част от живота си. През 1808 – 1814 г. учи във Филологическата гимназия в Смирна, а впоследствие се отдава на търговия. \n    От търговска дейност към 1828 г. започва да се занимава с книжовна дейност и се мести в Смирна /днешен Измир/. Там работи като редактор в гръцка печатница и преводач от френски език. Създава частно смесено елино-българско училище. Започва превод на Библията. В Смирна създава и отпечатва списание „Любословие \" на български език, с което поставя началото на периодичния печат в България. Той е първият български журналист.\n    Умира на 29.11.1857 в Цариград.\n",
+          "align": "left",
+          "collapsibleTitle": "Биографични данни",
+          "pageSide": "right"
+        }
+      ],
+      "footnotes": [],
+      "createdAt": "2026-11-12T20:45:00.000Z",
+      "updatedAt": "2026-11-19T08:14:19.229Z"
+    },
+    {
+      "id": "slide-3",
+      "slug": "smirnenski-period",
+      "title": "Фотинов-преводач, издател",
+      "subtitle": "",
+      "order": 3,
+      "status": "published",
+      "readingTimeMinutes": 3,
+      "narratorAudioUrl": "",
+      "narratorTranscript": "През 1828 година Фотинов открива в Смирна частно смесено елино-българско училище по взаимоучителната метода и сътрудничи с доктор Илайъс Ригс.",
+      "blocks": [
+        {
+          "id": "blk-301",
+          "type": "image",
+          "mediaUrl": "/uploads/fotinov-grammar-phrasebook.png",
+          "mediaType": "image",
+          "caption": "Факсимилета на Фотиновите учебни издания: „Гръцка граматика“ (1838) и „Болгарский разговорник“ (1845).",
+          "alt": "Учебни помагала на Константин Фотинов",
+          "content": "През 1828 г. Фотинов открива в Смирна частно <strong>смесено елино-българско училище</strong> по Бел-Ланкастърската метода. За него издава <em>„Гръцка граматика“ (1838)</em>, <em>„Общое землеописание“ (1843)</em> и <em>„Болгарский разговорник“ (1845)</em>.",
+          "align": "left",
+          "imageLayout": "float-left",
+          "imageSize": "large",
+          "imageCrop": "portrait",
+          "imageFocus": "center",
+          "pageSide": "left"
+        },
+        {
+          "id": "blk-1794658514467-9f8a",
+          "type": "collapsible",
+          "content": "Im Jahr 1828 eröffnete Fotinov in Smyrna eine private, koedukative griechisch-bulgarische Schule, die auf der Bell-Lancaster-Methode basierte. Für diese Schule veröffentlichte er eine „Griechische Grammatik“ (1838), eine „Allgemeine Geografie“ (1843) sowie ein „Bulgarisches Sprachbuch“ (1845). <strong>текст</strong>",
+          "align": "left",
+          "collapsibleTitle": "DE"
+        },
+        {
+          "id": "blk-302",
+          "type": "image",
+          "mediaUrl": "/uploads/gallaudet-dusheslovie.png",
+          "mediaType": "image",
+          "caption": "Заглавна страница на „Душесловие за поучение на децата“ — превод от Томас Х. Галаудет.",
+          "alt": "Душесловие от Томас Галаудет в превод на Фотинов",
+          "content": "<strong>Детска психология и педагогика:</strong> Фотинов превежда <em>„Душесловие за поучение на децата“</em> от американския педагог Томас Х. Галаудет и сътрудничи с д-р Илайъс Ригс за първата граматика на български език на английски (1844 г.).",
+          "align": "left",
+          "imageLayout": "float-right",
+          "imageSize": "large",
+          "imageCrop": "portrait",
+          "imageFocus": "top",
+          "pageSide": "right"
+        },
+        {
+          "id": "blk-1794658572271-ezxg",
+          "type": "collapsible",
+          "content": "Kinderpsychologie und Pädagogik: Fotinov übersetzte das Werk *Mental Philosophy for the Instruction of the Young* des amerikanischen Pädagogen Thomas H. Gallaudet und arbeitete gemeinsam mit Dr. Elias Riggs an der ersten bulgarisch-englischen Grammatik (1844).",
+          "align": "left",
+          "collapsibleTitle": "DE"
+        }
+      ],
+      "footnotes": [],
+      "createdAt": "2026-11-12T20:45:00.000Z",
+      "updatedAt": "2026-11-17T09:17:21.992Z"
+    },
+    {
+      "id": "slide-4",
+      "slug": "lyuboslovie-poligrafiya",
+      "title": "Начало на българския периодичен печат",
+      "subtitle": "",
+      "order": 4,
+      "status": "published",
+      "readingTimeMinutes": 3,
+      "narratorAudioUrl": "",
+      "narratorTranscript": "Списание Любословие се печата в типографията на Антониос Дамянос в Смирна с английски наборни шрифтове.",
+      "blocks": [
+        {
+          "id": "blk-401",
+          "type": "image",
+          "mediaUrl": "/uploads/lyuboslovie-original-issue.jpg",
+          "mediaType": "image",
+          "caption": "Оригинално издание на сп. „Любословие“ от печатницата на Антониос Дамянос в Смирна (1844 г.).",
+          "alt": "Списание Любословие Смирна",
+          "content": "След пробен брой през 1842 г., от <strong>април 1844 до 1846 г.</strong> в Смирна излизат 24 книжки на <strong>сп. „Любословие“</strong> — първото българско периодично издание, поставило началото на родната журналистика.",
+          "align": "left",
+          "imageLayout": "float-left",
+          "imageSize": "large",
+          "imageCrop": "portrait",
+          "imageFocus": "center",
+          "pageSide": "left"
+        },
+        {
+          "id": "blk-1794658732557-rn1l",
+          "type": "collapsible",
+          "content": "Nach einer Probenummer im Jahr 1842 erschienen zwischen April 1844 und 1846 in Smyrna 24 Ausgaben der Zeitschrift *Lyuboslovie* – der ersten bulgarischen Periodika, die den Beginn des einheimischen Journalismus markierte.",
+          "align": "left",
+          "collapsibleTitle": "DE"
+        },
+        {
+          "id": "blk-402",
+          "type": "image",
+          "mediaUrl": "/uploads/female-education-samokov.png",
+          "mediaType": "image",
+          "caption": "„Возобразование женскаго пола“ — защита на девическото образование и Самоковската девическа гимназия.",
+          "alt": "Возобразование женскаго пола сп Любословие",
+          "content": "<strong>„Возобразование женскаго пола“:</strong> Списанието има енциклопедичен характер. Фотинов защитава правото на българската жена на светско образование, стимулирайки откриването на девически училища\nПрез 1879г. се открива  и в Бургас  девическо училище- Фотиновото училище, носещо днес гордо името ПГЕЕ \"Константин Фотинов\". ",
+          "align": "left",
+          "imageLayout": "float-left",
+          "imageSize": "large",
+          "imageCrop": "portrait",
+          "imageFocus": "center",
+          "pageSide": "right"
+        },
+        {
+          "id": "blk-1794658759925-w629",
+          "type": "collapsible",
+          "content": "„Die Bildung des weiblichen Geschlechts“: Die Zeitschrift ist enzyklopädisch angelegt. Fotinov setzt sich für das Recht bulgarischer Frauen auf eine weltliche Bildung ein und fördert die Gründung von Mädchenschulen.",
+          "align": "left",
+          "collapsibleTitle": "DE"
+        }
+      ],
+      "footnotes": [],
+      "createdAt": "2026-11-12T20:45:00.000Z",
+      "updatedAt": "2026-11-17T10:48:32.859Z"
+    },
+    {
+      "id": "slide-6",
+      "slug": "topografiya-samokov",
+      "title": " Паметта за Фотинов живее днес",
+      "subtitle": "",
+      "order": 6,
+      "status": "published",
+      "readingTimeMinutes": 3,
+      "narratorAudioUrl": "",
+      "narratorTranscript": "Деконструкция на мита за запазена родна къща-музей на Константин Фотинов в Самоков и локализиране на семейния имот северозападно от Девическия манастир.",
+      "blocks": [
+        {
+          "id": "blk-601",
+          "type": "image",
+          "mediaUrl": "/uploads/1794908457228-5895970.jpg",
+          "mediaType": "image",
+          "caption": "Самоковски девически манастир \"Покров Богородичен\"",
+          "alt": "Експозиция в Исторически музей Самоков",
+          "content": "    В Самоков няма запазена родна къща-музей на Фотинов. Семейният имот се е намирал северозападно от Девическия манастир. Историческият музей в града съхранява оригинални броеве и архивни реликви от книжовника.",
+          "align": "left",
+          "imageLayout": "float-left",
+          "imageSize": "large",
+          "imageCrop": "portrait",
+          "imageFocus": "center",
+          "pageSide": "left"
+        },
+        {
+          "id": "blk-1794658871807-cir9",
+          "type": "collapsible",
+          "content": " Es gibt in Samokow kein erhaltenes Wohnhaus, das als Geburtshaus von Fotinow dienen könnte. Das Familienanwesen befand sich nordwestlich des Klosters. Das Historische Museum der Stadt bewahrt Originalausgaben sowie Archivstücke auf, die mit dem Literaten in Verbindung stehen.",
+          "align": "left",
+          "collapsibleTitle": "DE"
+        },
+        {
+          "id": "blk-602",
+          "type": "image",
+          "mediaUrl": "/uploads/samokov-convent-pokrov.jpg",
+          "mediaType": "image",
+          "caption": "Бельова църква, гр. Самоков",
+          "alt": "Бельова църква край Самоков",
+          "content": "<strong>Сакрална среда:</strong> Духовният климат на Самоков се формира около Бельова църква „Рождество Богородично“ и зографските школи, от които Фотинов черпи първите си импулси за просвещение и църковна книжнина.",
+          "align": "left",
+          "imageLayout": "float-left",
+          "imageSize": "large",
+          "imageCrop": "portrait",
+          "imageFocus": "center",
+          "pageSide": "right"
+        },
+        {
+          "id": "blk-1794658892702-40b7",
+          "type": "collapsible",
+          "content": "Mit einem Mythos aufräumen: Es gibt in Samokow kein erhaltenes Wohnhaus, das als Geburtshaus von Fotinow dienen könnte. Das Familienanwesen befand sich nordwestlich des Klosters. Das Historische Museum der Stadt bewahrt Originalausgaben sowie Archivstücke auf, die mit dem Literaten in Verbindung stehen.",
+          "align": "left",
+          "collapsibleTitle": "DE"
+        }
+      ],
+      "footnotes": [],
+      "createdAt": "2026-11-12T20:45:00.000Z",
+      "updatedAt": "2026-11-19T07:41:29.491Z"
+    },
+    {
+      "id": "slide-7",
+      "slug": "pamet-i-monumenti",
+      "title": "Паметта за Фотинов живее днес",
+      "subtitle": "",
+      "order": 7,
+      "status": "published",
+      "readingTimeMinutes": 3,
+      "narratorAudioUrl": "",
+      "narratorTranscript": "Съвременни форми на памет в Самоков: черният мраморен релеф от 1894 година и бронзовият мемориален комплекс от 2015 година.",
+      "blocks": [
+        {
+          "id": "blk-701",
+          "type": "image",
+          "mediaUrl": "/uploads/samokov-fotinov-monument-2015.jpg",
+          "mediaType": "image",
+          "caption": "Профилирана природо-математическа гимназия \"Константин Фотинов\",гр. Самоков",
+          "alt": "Фасада на Самоковската гимназия",
+          "content": "<strong>Самоковската гимназия:</strong> През 1894 г. за 50-годишнината на „Любословие“ е осветена новата сграда на гимназията, носеща неговото име, с черен мраморен релеф на фасадата и паметен бюст в двора на училището.",
+          "align": "left",
+          "imageLayout": "float-left",
+          "imageSize": "large",
+          "imageCrop": "portrait",
+          "imageFocus": "center",
+          "pageSide": "left"
+        },
+        {
+          "id": "blk-1794658976243-gcsz",
+          "type": "collapsible",
+          "content": "Das Gymnasium in Samokow: Im Jahr 1894, anlässlich des 50-jährigen Jubiläums von *Lyuboslovie*, wurde das neue, gleichnamige Gymnasialgebäude eingeweiht; es zeichnet sich durch ein Relief aus schwarzem Marmor an der Fassade sowie eine Gedenkbüste im Schulhof aus.",
+          "align": "left",
+          "collapsibleTitle": "DE"
+        },
+        {
+          "id": "blk-702",
+          "type": "image",
+          "mediaUrl": "/uploads/1794656182656-viber_-_2026-11-08_12-08-45-255.jpg",
+          "mediaType": "image",
+          "caption": "",
+          "alt": "Новият паметник на Константин Фотинов в Самоков",
+          "content": "<strong>Монументът от 2015 г.:</strong> На централния площад в Самоков скулпторът Спас Киричев изгражда бронзова композиция: Фотинов на пейка със списание „Любословие“ в ръка и каменни релефи с ключови моменти от живота му.",
+          "align": "left",
+          "imageLayout": "float-left",
+          "imageSize": "large",
+          "imageCrop": "portrait",
+          "imageFocus": "center",
+          "pageSide": "right"
+        },
+        {
+          "id": "blk-1794659012841-cazr",
+          "type": "collapsible",
+          "content": "Das Denkmal von 2015: Auf dem zentralen Platz von Samokow schuf der Bildhauer Spas Kiritschew eine Bronzekomposition – Fotinow, der auf einer Bank sitzt und die Zeitschrift *Ljuboslowie* in der Hand hält –, ergänzt durch Steinreliefs, die Schlüsselszenen aus seinem Leben darstellen.",
+          "align": "left",
+          "collapsibleTitle": "DE"
+        }
+      ],
+      "footnotes": [],
+      "createdAt": "2026-11-12T20:45:00.000Z",
+      "updatedAt": "2026-11-18T09:29:27.558Z"
+    },
+    {
+      "id": "slide-8",
+      "slug": "bibleyski-korpus",
+      "title": "Паметта за Фотинов живее днес",
+      "subtitle": "",
+      "order": 8,
+      "status": "published",
+      "readingTimeMinutes": 3,
+      "narratorAudioUrl": "",
+      "narratorTranscript": "Между 1852 и 1858 година Фотинов превежда Стария завет за Британското библейско дружество, като издава Псалтир през 1855 и Битие през 1857 година.",
+      "blocks": [
+        {
+          "id": "blk-801",
+          "type": "image",
+          "mediaUrl": "/uploads/sofia-borisova-gradina-fotinov.jpg",
+          "mediaType": "image",
+          "caption": "",
+          "alt": "Превод на Библията от Константин Фотинов",
+          "content": "Природонаучен музей-Бургас - музеят се намира в емблематична сграда на улица \"Константин  Фотинов\", която сама по себе си е обявена за архитектурен и културен паметник. ",
+          "align": "left",
+          "imageLayout": "float-left",
+          "imageSize": "large",
+          "imageCrop": "portrait",
+          "imageFocus": "center",
+          "pageSide": "left"
+        },
+        {
+          "id": "blk-1794659120757-2xiq",
+          "type": "collapsible",
+          "content": "Das Naturkundemuseum Burgas - das Museum befindet  sich in einem markanten Gebäude  in der Straße \" Konstantin Fotinov\" Das Gebäude selbst ist ein Archtektur -und Kulturdenkmal.",
+          "align": "left",
+          "collapsibleTitle": "DE"
+        },
+        {
+          "id": "blk-1794659344089-58ai",
+          "type": "image",
+          "content": "В центъра на Бургас се намира <strong> Професионална гимназия по електротехника и електроника \"Константин Фотинов \"</strong> - едно от водещите учебни заведения в града , кръстено на възрожденеца .",
+          "align": "left",
+          "mediaUrl": "/uploads/1794994389176-6f260a3568ef3659123076fba17a5046.jpg",
+          "mediaType": "image",
+          "caption": "",
+          "imageSize": "large",
+          "imageLayout": "float-left",
+          "imageCrop": "portrait"
+        },
+        {
+          "id": "blk-1794659423139-kleh",
+          "type": "collapsible",
+          "content": "Im Zentrum von  Burgas liegt das Berufsgymnasium für Elektrotechnik und Elektronik \"Konstantin Fotinow\"- eine der führenden Bildungseinrichtungen, die nach dem bulgarischen Aufklärer benannt wurde.",
+          "align": "left",
+          "collapsibleTitle": "DE"
+        }
+      ],
+      "footnotes": [],
+      "createdAt": "2026-11-12T20:45:00.000Z",
+      "updatedAt": "2026-11-18T09:35:19.438Z"
+    },
+    {
+      "id": "slide-10",
+      "slug": "fotinov-v-izkustvoto",
+      "title": " Фотинов в изобразителното изкуство и пластиката",
+      "subtitle": "",
+      "order": 10,
+      "status": "published",
+      "readingTimeMinutes": 3,
+      "narratorAudioUrl": "",
+      "narratorTranscript": "Художествени портрети и пластични скулптури, посветени на Константин Фотинов в Бургас и София.",
+      "blocks": [
+        {
+          "id": "blk-1001",
+          "type": "image",
+          "mediaUrl": "/uploads/portrait-damyan-zaberski.jpg",
+          "mediaType": "image",
+          "caption": "Портрет на Константин Фотинов от Дамян Заберски",
+          "alt": "Портрет от Дамян Заберски",
+          "content": "<strong>Живописни интерпретации:</strong> Образът на възрожденеца вдъхновява класически платна: портрета от <strong>Дамян Заберски</strong> в ПГЕЕ Бургас, картината с книга от <strong>Ари Калъчев (1939 г.)</strong> и масления портрет от <strong>Фоти Фотев</strong> (дар от випуск 2017).",
+          "align": "left",
+          "imageLayout": "float-left",
+          "imageSize": "large",
+          "imageCrop": "portrait",
+          "imageFocus": "top",
+          "pageSide": "left"
+        },
+        {
+          "id": "blk-1794659466514-qqpr",
+          "type": "collapsible",
+          "content": "Bildliche Darstellungen: Die Gestalt des Patrioten aus der Zeit der Nationalen Wiedergeburt dient als Vorlage für klassische Gemälde – ein Porträt von Damyan Zaberski an der PGEE Burgas, ein Werk von Ari Kalachev (1939), das ein Buch zeigt, sowie ein Ölporträt von Foti Fotev (ein Geschenk des Abschlussjahrgangs 2017).",
+          "align": "left",
+          "collapsibleTitle": "DE"
+        },
+        {
+          "id": "blk-1002",
+          "type": "image",
+          "mediaUrl": "/uploads/bust-mara-georgieva-sbj.jpg",
+          "mediaType": "image",
+          "caption": "Скулптурен бюст на Константин Фотинов от проф. Мара Георгиева (1947 г.), фоайе на СБЖ в София.",
+          "alt": "Бюст от проф Мара Георгиева СБЖ",
+          "content": "<strong>Скулптурен образ в СБЖ:</strong> През 1947 г. бележитата българска скулпторка <strong>проф. Мара Георгиева</strong> извайва бронзов бюст на Фотинов, поставен във фоайето на Съюза на българските журналисти в София като вечен патрон на родната преса.",
+          "align": "left",
+          "imageLayout": "float-left",
+          "imageSize": "large",
+          "imageCrop": "portrait",
+          "imageFocus": "top",
+          "pageSide": "right"
+        },
+        {
+          "id": "blk-1794659544829-z31h",
+          "type": "collapsible",
+          "content": "Ein skulpturales Abbild beim SBJ: Im Jahr 1947 schuf die bedeutende bulgarische Bildhauerin Prof. Mara Georgieva eine Bronzebüste von Fotinow, die im Foyer des Verbands Bulgarischer Journalisten (SBJ) in Sofia aufgestellt wurde und dort als ewiger Schutzpatron der nationalen Presse fungiert.",
+          "align": "left",
+          "collapsibleTitle": "DE"
+        }
+      ],
+      "footnotes": [],
+      "createdAt": "2026-11-12T20:45:00.000Z",
+      "updatedAt": "2026-11-17T12:04:03.639Z"
+    },
+    {
+      "id": "slide-11",
+      "slug": "literaturna-i-uchilishtna-pamet",
+      "title": " Литературна и училищна памет",
+      "subtitle": "",
+      "order": 11,
+      "status": "published",
+      "readingTimeMinutes": 3,
+      "narratorAudioUrl": "",
+      "narratorTranscript": "Литературна и училищна памет за Константин Фотинов: химн на гимназията, поема от Борис Бухчев и плочата в Измир.",
+      "blocks": [
+        {
+          "id": "blk-1101",
+          "type": "image",
+          "mediaUrl": "/uploads/hymn-manuscript-cholakova.jpg",
+          "mediaType": "image",
+          "caption": "Химн на гимназия „Фотинов“ — калиграфски ръкопис на Благовеста Чолакова (11 б клас).",
+          "alt": "Ръкопис на химна на гимназия Фотинов",
+          "content": "<strong>Училищен химн и поезия:</strong> Паметта за книжовника живее в поетичната творба на <strong>Борис Бухчев</strong> и училищния химн на гимназията, съхраняван в калиграфски ръкопис, както и във възторжените оценки на народния поет <strong>Иван Вазов</strong>.",
+          "align": "left",
+          "imageLayout": "float-left",
+          "imageSize": "large",
+          "imageCrop": "portrait",
+          "imageFocus": "center",
+          "pageSide": "left"
+        },
+        {
+          "id": "blk-1794659598969-fsi3",
+          "type": "collapsible",
+          "content": "Schulhymne und Dichtung: Das Andenken an den Literaten lebt fort im dichterischen Werk von Boris Buhtschew und in der Hymne der Oberschule – bewahrt in einem kalligrafischen Manuskript –, ebenso wie in den anerkennenden, lobenden Urteilen des Nationaldichters Iwan Wasow.",
+          "align": "left",
+          "collapsibleTitle": "DE"
+        },
+        {
+          "id": "blk-1102",
+          "type": "image",
+          "mediaUrl": "/uploads/1794995245083-1000087460.jpg",
+          "mediaType": "image",
+          "caption": "",
+          "alt": "Паметна плоча на Фотинов в Измир",
+          "content": "Училищната библиотека към <strong>ПГЕЕ \"Константин Фотинов\"</strong> притежава оригинален екземпляр от брой 4-ти на списание <strong>\"Любословие\"</strong> от 1844 г.",
+          "align": "left",
+          "imageLayout": "float-left",
+          "imageSize": "large",
+          "imageCrop": "portrait",
+          "imageFocus": "center",
+          "pageSide": "right"
+        },
+        {
+          "id": "blk-1794659639545-bes1",
+          "type": "collapsible",
+          "content": "Die Schulbibliothek besitzt ein Originalexemplar der Ausgabe 4 der Zeitschrift „Lyuboslovie“ aus dem Jahr 1844.",
+          "align": "left",
+          "collapsibleTitle": "DE"
+        }
+      ],
+      "footnotes": [],
+      "createdAt": "2026-11-12T20:45:00.000Z",
+      "updatedAt": "2026-11-19T09:02:46.011Z"
+    },
+    {
+      "id": "slide-1795077661837",
+      "slug": "stranitsa-11-1394",
+      "title": "",
+      "subtitle": "",
+      "order": 11,
+      "status": "published",
+      "readingTimeMinutes": 3,
+      "narratorAudioUrl": "",
+      "narratorTranscript": "",
+      "unlockCondition": "",
+      "blocks": [
+        {
+          "id": "blk-1795077668951-vpyr",
+          "type": "image",
+          "content": "",
+          "align": "left",
+          "mediaUrl": "/uploads/fotinov-portrait-classic.png",
+          "mediaType": "image",
+          "caption": "",
+          "imageLayout": "full-page",
+          "imageSize": "full",
+          "pageSide": "left"
+        },
+        {
+          "id": "blk-1795077693730-osoy",
+          "type": "collapsible",
+          "content": "Гвардейци от IV ученически гвардейски отряд отдават почит на патрона в двора на ПГЕЕ \"Константин Фотинов\", гр. Бургас.\n",
+          "align": "left",
+          "pageSide": "right",
+          "collapsibleTitle": "В памет на Константин Фотинов"
+        },
+        {
+          "id": "blk-1795078083812-nmsz",
+          "type": "collapsible",
+          "content": "<strong>Изготвили:</strong> Константин Караниколов и Стоян Калчев - X Г клас \n<strong>Консултанти:</strong> Нина Вълкова и Благовеста Бедросова ",
+          "align": "left",
+          "collapsibleTitle": "Изготвили"
+        }
+      ],
+      "footnotes": [],
+      "createdAt": "2026-11-19T08:41:01.837Z",
+      "updatedAt": "2026-11-19T08:58:07.233Z"
+    }
+  ],
+  "media": [
+    {
+      "id": "med-1794995245084-ejbvo",
+      "name": "1000087460",
+      "filename": "1794995245083-1000087460.jpg",
+      "url": "/uploads/1794995245083-1000087460.jpg",
+      "type": "image",
+      "mimeType": "image/jpeg",
+      "size": 1573575,
+      "category": "illustrations",
+      "tags": [
+        "book",
+        "interactive"
+      ],
+      "uploadedAt": "2026-11-18T09:47:25.084Z"
+    },
+    {
+      "id": "med-1794994389176-18jrl",
+      "name": "6f260a3568ef3659123076fba17a5046",
+      "filename": "1794994389176-6f260a3568ef3659123076fba17a5046.jpg",
+      "url": "/uploads/1794994389176-6f260a3568ef3659123076fba17a5046.jpg",
+      "type": "image",
+      "mimeType": "image/jpeg",
+      "size": 146607,
+      "category": "editor-upload",
+      "tags": [
+        "editor",
+        "quick-upload"
+      ],
+      "uploadedAt": "2026-11-18T09:33:09.177Z"
+    },
+    {
+      "id": "med-1794914463954-phd36",
+      "name": "Profesionalna-Gimnaziya-Po-Elektrotehnika-I-Elektronika-Konstantin-Fotinov-Bourgas-9b",
+      "filename": "1794914463954-Profesionalna-Gimnaziya-Po-Elektrotehnika-I-Elektronika-Konstantin-Fotinov-Bourgas-9b.webp",
+      "url": "/uploads/1794914463954-Profesionalna-Gimnaziya-Po-Elektrotehnika-I-Elektronika-Konstantin-Fotinov-Bourgas-9b.webp",
+      "type": "image",
+      "mimeType": "image/webp",
+      "size": 39186,
+      "category": "editor-upload",
+      "tags": [
+        "editor",
+        "quick-upload"
+      ],
+      "uploadedAt": "2026-11-17T11:21:03.954Z"
+    },
+    {
+      "id": "med-1794908457229-te63z",
+      "name": "5895970",
+      "filename": "1794908457228-5895970.jpg",
+      "url": "/uploads/1794908457228-5895970.jpg",
+      "type": "image",
+      "mimeType": "image/jpeg",
+      "size": 215758,
+      "category": "illustrations",
+      "tags": [
+        "book",
+        "interactive"
+      ],
+      "uploadedAt": "2026-11-17T09:40:57.229Z"
+    },
+    {
+      "id": "med-1794907937259-p6da7",
+      "name": "IMG_20261117_112811",
+      "filename": "1794907937258-IMG_20261117_112811.jpg",
+      "url": "/uploads/1794907937258-IMG_20261117_112811.jpg",
+      "type": "image",
+      "mimeType": "image/jpeg",
+      "size": 3251780,
+      "category": "illustrations",
+      "tags": [
+        "book",
+        "interactive"
+      ],
+      "uploadedAt": "2026-11-17T09:32:17.259Z"
+    },
+    {
+      "id": "med-1794907927877-3qg8n",
+      "name": "IMG-674d2a237cff8a0aaf83535983786f3d-V",
+      "filename": "1794907927877-IMG-674d2a237cff8a0aaf83535983786f3d-V.jpg",
+      "url": "/uploads/1794907927877-IMG-674d2a237cff8a0aaf83535983786f3d-V.jpg",
+      "type": "image",
+      "mimeType": "image/jpeg",
+      "size": 150134,
+      "category": "illustrations",
+      "tags": [
+        "book",
+        "interactive"
+      ],
+      "uploadedAt": "2026-11-17T09:32:07.877Z"
+    },
+    {
+      "id": "med-1794659329886-1pa0i",
+      "name": "images",
+      "filename": "1794659329886-images.jpg",
+      "url": "/uploads/1794659329886-images.jpg",
+      "type": "image",
+      "mimeType": "image/jpeg",
+      "size": 32218,
+      "category": "illustrations",
+      "tags": [
+        "book",
+        "interactive"
+      ],
+      "uploadedAt": "2026-11-14T12:28:49.886Z"
+    },
+    {
+      "id": "med-1794656182656-c0nui",
+      "name": "viber_изображение_2026-11-08_12-08-45-255",
+      "filename": "1794656182656-viber_-_2026-11-08_12-08-45-255.jpg",
+      "url": "/uploads/1794656182656-viber_-_2026-11-08_12-08-45-255.jpg",
+      "type": "image",
+      "mimeType": "image/jpeg",
+      "size": 129183,
+      "category": "illustrations",
+      "tags": [
+        "book",
+        "interactive"
+      ],
+      "uploadedAt": "2026-11-14T11:36:22.656Z"
+    },
+    {
+      "id": "med-1794654341500-l8fkf",
+      "name": "viber_изображение_2026-11-08_12-07-47-302",
+      "filename": "1794654341500-viber_-_2026-11-08_12-07-47-302.jpg",
+      "url": "/uploads/1794654341500-viber_-_2026-11-08_12-07-47-302.jpg",
+      "type": "image",
+      "mimeType": "image/jpeg",
+      "size": 88820,
+      "category": "illustrations",
+      "tags": [
+        "book",
+        "interactive"
+      ],
+      "uploadedAt": "2026-11-14T11:05:41.500Z"
+    },
+    {
+      "id": "med-fotinov-portrait-classic",
+      "name": "Официален портрет на Константин Фотинов",
+      "filename": "fotinov-portrait-classic.png",
+      "url": "/uploads/fotinov-portrait-classic.png",
+      "type": "image",
+      "mimeType": "image/png",
+      "size": 1647563,
+      "category": "portraits",
+      "tags": [
+        "портрет",
+        "фотинов",
+        "патрон",
+        "слайд-1"
+      ],
+      "uploadedAt": "2026-11-12T20:45:00.000Z"
+    },
+    {
+      "id": "med-samokov-convent-pokrov",
+      "name": "Девически манастир „Покров Богородичен“ в Самоков",
+      "filename": "samokov-convent-pokrov.jpg",
+      "url": "/uploads/samokov-convent-pokrov.jpg",
+      "type": "image",
+      "mimeType": "image/jpeg",
+      "size": 104383,
+      "category": "monasteries",
+      "tags": [
+        "самоков",
+        "манастир",
+        "баба-фота",
+        "метох",
+        "слайд-2"
+      ],
+      "uploadedAt": "2026-11-12T20:45:00.000Z"
+    },
+    {
+      "id": "med-fotinov-grammar-phrasebook",
+      "name": "„Гръцка граматика“ и „Болгарский разговорник“",
+      "filename": "fotinov-grammar-phrasebook.png",
+      "url": "/uploads/fotinov-grammar-phrasebook.png",
+      "type": "image",
+      "mimeType": "image/png",
+      "size": 71029,
+      "category": "facsimiles",
+      "tags": [
+        "граматика",
+        "разговорник",
+        "учебници",
+        "смирна",
+        "слайд-3"
+      ],
+      "uploadedAt": "2026-11-12T20:45:00.000Z"
+    },
+    {
+      "id": "med-gallaudet-dusheslovie",
+      "name": "„Душесловие за поучение на децата“ от Томас Галаудет",
+      "filename": "gallaudet-dusheslovie.png",
+      "url": "/uploads/gallaudet-dusheslovie.png",
+      "type": "image",
+      "mimeType": "image/png",
+      "size": 696872,
+      "category": "facsimiles",
+      "tags": [
+        "галаудет",
+        "душесловие",
+        "педагогика",
+        "превод",
+        "слайд-3"
+      ],
+      "uploadedAt": "2026-11-12T20:45:00.000Z"
+    },
+    {
+      "id": "med-lyuboslovie-original-issue",
+      "name": "Списание „Любословие“ (оригинално печатно издание)",
+      "filename": "lyuboslovie-original-issue.jpg",
+      "url": "/uploads/lyuboslovie-original-issue.jpg",
+      "type": "image",
+      "mimeType": "image/jpeg",
+      "size": 31436,
+      "category": "periodicals",
+      "tags": [
+        "любословие",
+        "списание",
+        "периодика",
+        "1844",
+        "слайд-4"
+      ],
+      "uploadedAt": "2026-11-12T20:45:00.000Z"
+    },
+    {
+      "id": "med-female-education-samokov",
+      "name": "„Возобразование женскаго пола“ и девическото образование",
+      "filename": "female-education-samokov.png",
+      "url": "/uploads/female-education-samokov.png",
+      "type": "image",
+      "mimeType": "image/png",
+      "size": 563116,
+      "category": "facsimiles",
+      "tags": [
+        "образование",
+        "девическа-гимназия",
+        "еманципация",
+        "слайд-4"
+      ],
+      "uploadedAt": "2026-11-12T20:45:00.000Z"
+    },
+    {
+      "id": "med-samokov-museum-exhibition",
+      "name": "Експозиция в Исторически музей – Самоков",
+      "filename": "samokov-museum-exhibition.jpg",
+      "url": "/uploads/samokov-museum-exhibition.jpg",
+      "type": "image",
+      "mimeType": "image/jpeg",
+      "size": 115999,
+      "category": "museums",
+      "tags": [
+        "музей",
+        "самоков",
+        "експозиция",
+        "слайд-6"
+      ],
+      "uploadedAt": "2026-11-12T20:45:00.000Z"
+    },
+    {
+      "id": "med-belyova-church-samokov",
+      "name": "Бельова църква край Самоков",
+      "filename": "belyova-church-samokov.jpg",
+      "url": "/uploads/belyova-church-samokov.jpg",
+      "type": "image",
+      "mimeType": "image/jpeg",
+      "size": 98155,
+      "category": "monuments",
+      "tags": [
+        "бельова-църква",
+        "самоков",
+        "възраждане",
+        "слайд-6"
+      ],
+      "uploadedAt": "2026-11-12T20:45:00.000Z"
+    },
+    {
+      "id": "med-samokov-gymnasium-facade",
+      "name": "Фасада на Самоковската гимназия с мраморния релеф от 1894 г.",
+      "filename": "samokov-gymnasium-facade.jpg",
+      "url": "/uploads/samokov-gymnasium-facade.jpg",
+      "type": "image",
+      "mimeType": "image/jpeg",
+      "size": 164245,
+      "category": "monuments",
+      "tags": [
+        "гимназия",
+        "самоков",
+        "релеф",
+        "1894",
+        "слайд-7"
+      ],
+      "uploadedAt": "2026-11-12T20:45:00.000Z"
+    },
+    {
+      "id": "med-samokov-fotinov-monument-2015",
+      "name": "Мемориален комплекс на пл. „Захарий Зограф“ в Самоков (2015 г.)",
+      "filename": "samokov-fotinov-monument-2015.jpg",
+      "url": "/uploads/samokov-fotinov-monument-2015.jpg",
+      "type": "image",
+      "mimeType": "image/jpeg",
+      "size": 86965,
+      "category": "monuments",
+      "tags": [
+        "паметник",
+        "самоков",
+        "2015",
+        "киричев",
+        "слайд-7"
+      ],
+      "uploadedAt": "2026-11-12T20:45:00.000Z"
+    },
+    {
+      "id": "med-bible-translation-tsarigrad",
+      "name": "Факсимиле от Цариградската Библия",
+      "filename": "bible-translation-tsarigrad.png",
+      "url": "/uploads/bible-translation-tsarigrad.png",
+      "type": "image",
+      "mimeType": "image/png",
+      "size": 25170,
+      "category": "facsimiles",
+      "tags": [
+        "библия",
+        "цариград",
+        "ригс",
+        "славейков",
+        "слайд-8"
+      ],
+      "uploadedAt": "2026-11-12T20:45:00.000Z"
+    },
+    {
+      "id": "med-portrait-damyan-zaberski",
+      "name": "Портрет на Константин Фотинов от Дамян Заберски",
+      "filename": "portrait-damyan-zaberski.jpg",
+      "url": "/uploads/portrait-damyan-zaberski.jpg",
+      "type": "image",
+      "mimeType": "image/jpeg",
+      "size": 292012,
+      "category": "art",
+      "tags": [
+        "портрет",
+        "заберски",
+        "бургас",
+        "пгее",
+        "слайд-10"
+      ],
+      "uploadedAt": "2026-11-12T20:45:00.000Z"
+    },
+    {
+      "id": "med-bust-mara-georgieva-sbj",
+      "name": "Скулптурен бюст от проф. Мара Георгиева (СБЖ)",
+      "filename": "bust-mara-georgieva-sbj.jpg",
+      "url": "/uploads/bust-mara-georgieva-sbj.jpg",
+      "type": "image",
+      "mimeType": "image/jpeg",
+      "size": 106495,
+      "category": "sculpture",
+      "tags": [
+        "бюст",
+        "мара-георгиева",
+        "сбж",
+        "софия",
+        "слайд-10"
+      ],
+      "uploadedAt": "2026-11-12T20:45:00.000Z"
+    },
+    {
+      "id": "med-portrait-ari-kalachev",
+      "name": "Портрет с книга от Ари Калъчев (1939 г.)",
+      "filename": "portrait-ari-kalachev-1939.png",
+      "url": "/uploads/portrait-ari-kalachev-1939.png",
+      "type": "image",
+      "mimeType": "image/png",
+      "size": 398430,
+      "category": "art",
+      "tags": [
+        "портрет",
+        "калъчев",
+        "1939",
+        "самоков",
+        "слайд-10"
+      ],
+      "uploadedAt": "2026-11-12T20:45:00.000Z"
+    },
+    {
+      "id": "med-portrait-foti-fotev",
+      "name": "Портрет на Константин Фотинов от Фоти Фотев (2017 г.)",
+      "filename": "portrait-foti-fotev.png",
+      "url": "/uploads/portrait-foti-fotev.png",
+      "type": "image",
+      "mimeType": "image/png",
+      "size": 800699,
+      "category": "art",
+      "tags": [
+        "портрет",
+        "фоти-фотев",
+        "пгее",
+        "бургас",
+        "слайд-10"
+      ],
+      "uploadedAt": "2026-11-12T20:45:00.000Z"
+    },
+    {
+      "id": "med-hymn-manuscript-cholakova",
+      "name": "Химн на гимназия „Фотинов“ — ръкопис на Благовеста Чолакова",
+      "filename": "hymn-manuscript-cholakova.jpg",
+      "url": "/uploads/hymn-manuscript-cholakova.jpg",
+      "type": "image",
+      "mimeType": "image/jpeg",
+      "size": 487876,
+      "category": "archive",
+      "tags": [
+        "химн",
+        "ръкопис",
+        "гимназия",
+        "бухчев",
+        "слайд-11"
+      ],
+      "uploadedAt": "2026-11-12T20:45:00.000Z"
+    },
+    {
+      "id": "med-izmir-memorial-plaque",
+      "name": "Възпоменателна плоча в Измир (Смирна)",
+      "filename": "izmir-memorial-plaque.png",
+      "url": "/uploads/izmir-memorial-plaque.png",
+      "type": "image",
+      "mimeType": "image/png",
+      "size": 655658,
+      "category": "monuments",
+      "tags": [
+        "паметна-плоча",
+        "измир",
+        "смирна",
+        "турция",
+        "слайд-11"
+      ],
+      "uploadedAt": "2026-11-12T20:45:00.000Z"
+    },
+    {
+      "id": "med-sofia-borisova-gradina-fotinov",
+      "name": "Паметник на Константин Фотинов в Борисовата градина (София)",
+      "filename": "sofia-borisova-gradina-fotinov.jpg",
+      "url": "/uploads/sofia-borisova-gradina-fotinov.jpg",
+      "type": "image",
+      "mimeType": "image/jpeg",
+      "size": 229908,
+      "category": "monuments",
+      "tags": [
+        "паметник",
+        "софия",
+        "борисова-градина",
+        "будители",
+        "слайд-12"
+      ],
+      "uploadedAt": "2026-11-12T20:45:00.000Z"
+    },
+    {
+      "id": "med-fotinovo-waterfalls-batak",
+      "name": "Фотински водопади край с. Фотиново (Батак)",
+      "filename": "fotinovo-waterfalls-batak.jpg",
+      "url": "/uploads/fotinovo-waterfalls-batak.jpg",
+      "type": "image",
+      "mimeType": "image/jpeg",
+      "size": 91305,
+      "category": "nature",
+      "tags": [
+        "родопи",
+        "водопади",
+        "фотиново",
+        "батак",
+        "природа",
+        "слайд-12"
+      ],
+      "uploadedAt": "2026-11-12T20:45:00.000Z"
+    },
+    {
+      "id": "med-burgas-pgee-fotinov-street",
+      "name": "ПГЕЕ „Константин Фотинов“ и ул. „Фотинов“ в Бургас",
+      "filename": "burgas-pgee-fotinov-street.jpg",
+      "url": "/uploads/burgas-pgee-fotinov-street.jpg",
+      "type": "image",
+      "mimeType": "image/jpeg",
+      "size": 129183,
+      "category": "institutions",
+      "tags": [
+        "бургас",
+        "пгее",
+        "улица",
+        "патрон",
+        "слайд-12"
+      ],
+      "uploadedAt": "2026-11-12T20:45:00.000Z"
+    },
+    {
+      "id": "med-fotinovo-rock-turtles-kirkovo",
+      "name": "Скален комплекс „Костенурките“ край с. Фотиново (Кирково)",
+      "filename": "fotinovo-rock-turtles-kirkovo.jpg",
+      "url": "/uploads/fotinovo-rock-turtles-kirkovo.jpg",
+      "type": "image",
+      "mimeType": "image/jpeg",
+      "size": 106467,
+      "category": "nature",
+      "tags": [
+        "родопи",
+        "костенурките",
+        "скали",
+        "фотиново",
+        "кирково",
+        "слайд-12"
+      ],
+      "uploadedAt": "2026-11-12T20:45:00.000Z"
+    },
+    {
+      "id": "med-samokov-fotinov-bust-gymnasium",
+      "name": "Бюст-паметник на Фотинов в двора на Самоковската гимназия",
+      "filename": "samokov-fotinov-bust-gymnasium.jpg",
+      "url": "/uploads/samokov-fotinov-bust-gymnasium.jpg",
+      "type": "image",
+      "mimeType": "image/jpeg",
+      "size": 88820,
+      "category": "monuments",
+      "tags": [
+        "бюст",
+        "паметник",
+        "двор",
+        "гимназия",
+        "самоков"
+      ],
+      "uploadedAt": "2026-11-12T20:45:00.000Z"
+    },
+    {
+      "id": "med-samokov-engraving-old",
+      "name": "Историческа гравюра на Възрожденски Самоков",
+      "filename": "samokov-engraving-old.png",
+      "url": "/uploads/samokov-engraving-old.png",
+      "type": "image",
+      "mimeType": "image/png",
+      "size": 498460,
+      "category": "archive",
+      "tags": [
+        "гравюра",
+        "самоков",
+        "възраждане",
+        "история"
+      ],
+      "uploadedAt": "2026-11-12T20:45:00.000Z"
+    }
+  ]
+}

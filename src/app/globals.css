@@ -1,0 +1,374 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;0,700;1,400;1,600&family=Cormorant+SC:wght@600;700&family=EB+Garamond:ital,wght@0,400;0,600;0,700;1,400&family=Old+Standard+TT:ital,wght@0,400;0,700;1,400&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    font-family: 'EB Garamond', 'Old Standard TT', 'Cormorant Garamond', Georgia, serif;
+    background-color: #1c110a;
+    color: #26170a;
+    @apply antialiased selection:bg-[#7c2d12]/25 selection:text-[#26170a];
+  }
+
+  h1, h2, h3, h4 {
+    font-family: 'Cormorant SC', 'Cormorant Garamond', 'Old Standard TT', Georgia, serif;
+    letter-spacing: 0.02em;
+  }
+}
+
+/* Candlelit Antique Walnut Desk Backdrop */
+.antique-desk-bg {
+  background-color: #1c110a;
+  background-image:
+    radial-gradient(ellipse at 50% 42%, rgba(98, 60, 28, 0.55) 0%, rgba(38, 22, 11, 0.88) 65%, rgba(16, 9, 4, 0.98) 100%),
+    repeating-linear-gradient(
+      90deg,
+      rgba(255, 225, 175, 0.015) 0px,
+      rgba(255, 225, 175, 0.015) 2px,
+      transparent 2px,
+      transparent 9px
+    );
+}
+
+/* Authentic 1844 Revival Aged Rag-Paper Sheet */
+.vintage-parchment {
+  background-color: #f3e7ce;
+  background-image:
+    radial-gradient(circle at 50% 45%, rgba(251, 245, 230, 0.7) 0%, rgba(235, 217, 181, 0.4) 62%, rgba(196, 164, 114, 0.42) 100%),
+    repeating-linear-gradient(
+      0deg,
+      rgba(95, 60, 28, 0.022) 0px,
+      rgba(95, 60, 28, 0.022) 1px,
+      transparent 1px,
+      transparent 3px
+    );
+  box-shadow:
+    inset 0 0 55px rgba(110, 70, 30, 0.28),
+    inset 0 0 12px rgba(74, 44, 17, 0.22),
+    0 24px 60px rgba(8, 4, 1, 0.72);
+}
+
+/* Revival Drop Cap (Възрожденска буквица за първия абзац) */
+.revival-dropcap::first-letter {
+  float: left;
+  font-family: 'Cormorant SC', 'Old Standard TT', Georgia, serif;
+  font-size: 3.1rem;
+  line-height: 0.86;
+  font-weight: 700;
+  color: #6e1a12;
+  background: linear-gradient(135deg, #f7efde 0%, #e4cfa6 100%);
+  border: 2px solid #7a5230;
+  box-shadow: inset 0 0 0 1px #c4a472, 2px 2px 6px rgba(43, 29, 14, 0.18);
+  padding: 0.2rem 0.55rem;
+  margin-right: 0.65rem;
+  margin-top: 0.15rem;
+}
+
+/* Museum Lithograph / Daguerreotype Frame */
+.antique-photo-frame {
+  background: linear-gradient(145deg, #f9f2e2 0%, #e6d3ad 100%);
+  border: 3px solid #4a2c14;
+  outline: 1px solid #9c7444;
+  outline-offset: -6px;
+  box-shadow:
+    0 10px 28px rgba(28, 16, 6, 0.35),
+    inset 0 0 18px rgba(92, 58, 26, 0.22);
+}
+
+/* ============================================================================
+   ULTRA-SMOOTH GPU-ACCELERATED 3D BOOK PAGE TURN & SLIDE LEAF ANIMATIONS
+   Single continuous 0% -> 100% rotation curve + pure opacity/transform shading
+   so there are zero intermediate keyframe stops or stepped gradient flashes.
+   ============================================================================ */
+
+.book-3d-stage {
+  perspective: 2800px;
+  transform-style: preserve-3d;
+}
+
+.page-leaf-3d {
+  transform-style: preserve-3d;
+  transform-origin: left center;
+  will-change: transform;
+}
+
+.page-face-front {
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+  transform: rotateY(0deg) translateZ(0.5px);
+  will-change: transform;
+}
+
+.page-face-back {
+  backface-visibility: hidden;
+  -webkit-backface-visibility: hidden;
+  transform: rotateY(180deg) translateZ(0.5px);
+  will-change: transform;
+}
+
+/* Single uninterrupted S-curve rotation from 0deg to -180deg */
+@keyframes textbookTurnLeafForward {
+  0% {
+    transform: translate3d(0, 0, 0) rotateY(0deg);
+  }
+  100% {
+    transform: translate3d(0, 0, 0) rotateY(-180deg);
+  }
+}
+
+@keyframes textbookTurnLeafBackward {
+  0% {
+    transform: translate3d(0, 0, 0) rotateY(-180deg);
+  }
+  100% {
+    transform: translate3d(0, 0, 0) rotateY(0deg);
+  }
+}
+
+/* Gentle organic paper arch on inner content during the turn */
+@keyframes paperSoftArch {
+  0% {
+    transform: skewY(0deg) scaleY(1);
+  }
+  50% {
+    transform: skewY(-1.3deg) scaleY(1.006);
+  }
+  100% {
+    transform: skewY(0deg) scaleY(1);
+  }
+}
+
+/* Pure GPU opacity curves for lighting & cast shadows (no background re-painting!) */
+@keyframes shadeFadeOutHalf {
+  0% {
+    opacity: 0.05;
+  }
+  45% {
+    opacity: 0.85;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+
+@keyframes shadeFadeInHalf {
+  0% {
+    opacity: 0;
+  }
+  50% {
+    opacity: 0.85;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+
+@keyframes rightUnderShadowSweep {
+  0% {
+    opacity: 0.1;
+    transform: scaleX(0.92);
+  }
+  38% {
+    opacity: 0.85;
+    transform: scaleX(1);
+  }
+  100% {
+    opacity: 0;
+    transform: scaleX(0.25);
+  }
+}
+
+@keyframes leftUnderShadowLanding {
+  0%, 35% {
+    opacity: 0;
+    transform: scaleX(0.25);
+  }
+  68% {
+    opacity: 0.82;
+    transform: scaleX(0.96);
+  }
+  100% {
+    opacity: 0;
+    transform: scaleX(1);
+  }
+}
+
+.animate-textbook-leaf-next {
+  animation: textbookTurnLeafForward 1.08s cubic-bezier(0.645, 0.045, 0.355, 1) forwards;
+}
+
+.animate-textbook-leaf-prev {
+  animation: textbookTurnLeafBackward 1.08s cubic-bezier(0.645, 0.045, 0.355, 1) forwards;
+}
+
+.animate-paper-arch {
+  animation: paperSoftArch 1.08s ease-in-out forwards;
+}
+
+.animate-leaf-front-shade {
+  background: linear-gradient(
+    to left,
+    rgba(255, 248, 230, 0.25) 0%,
+    rgba(35, 18, 6, 0.22) 55%,
+    rgba(18, 9, 3, 0.48) 100%
+  );
+  will-change: opacity;
+  animation: shadeFadeOutHalf 1.08s ease-in-out forwards;
+}
+
+.animate-leaf-back-shade {
+  background: linear-gradient(
+    to right,
+    rgba(18, 9, 3, 0.48) 0%,
+    rgba(35, 18, 6, 0.2) 45%,
+    rgba(255, 248, 230, 0.22) 100%
+  );
+  will-change: opacity;
+  animation: shadeFadeInHalf 1.08s ease-in-out forwards;
+}
+
+.animate-right-page-shadow {
+  transform-origin: left center;
+  background: linear-gradient(
+    to right,
+    rgba(14, 6, 2, 0.55) 0%,
+    rgba(14, 6, 2, 0.24) 50%,
+    transparent 95%
+  );
+  will-change: transform, opacity;
+  animation: rightUnderShadowSweep 1.08s cubic-bezier(0.4, 0, 0.2, 1) forwards;
+}
+
+.animate-left-page-shadow {
+  transform-origin: right center;
+  background: linear-gradient(
+    to left,
+    rgba(14, 6, 2, 0.55) 0%,
+    rgba(14, 6, 2, 0.24) 50%,
+    transparent 95%
+  );
+  will-change: transform, opacity;
+  animation: leftUnderShadowLanding 1.08s cubic-bezier(0.4, 0, 0.2, 1) forwards;
+}
+
+/* ============================================================================
+   PRESENTATION MODE: FLUID 3D FOLIO SHEET TURN AROUND LEFT SPINE
+   ============================================================================ */
+
+@keyframes folioSheetTurnNext {
+  0% {
+    transform: translate3d(0, 0, 0) rotateY(0deg);
+    opacity: 1;
+  }
+  78% {
+    opacity: 1;
+  }
+  100% {
+    transform: translate3d(0, 0, 0) rotateY(-118deg);
+    opacity: 0;
+  }
+}
+
+@keyframes folioSheetTurnPrev {
+  0% {
+    transform: translate3d(0, 0, 0) rotateY(-118deg);
+    opacity: 0;
+  }
+  22% {
+    opacity: 1;
+  }
+  100% {
+    transform: translate3d(0, 0, 0) rotateY(0deg);
+    opacity: 1;
+  }
+}
+
+@keyframes folioUnderShadowSweep {
+  0% {
+    opacity: 0.85;
+    transform: scaleX(1);
+  }
+  100% {
+    opacity: 0;
+    transform: scaleX(0.18);
+  }
+}
+
+.animate-folio-sheet-next {
+  transform-origin: left center;
+  will-change: transform, opacity;
+  box-shadow: 28px 10px 48px rgba(10, 5, 1, 0.45);
+  animation: folioSheetTurnNext 1.05s cubic-bezier(0.56, 0.03, 0.22, 1) forwards;
+}
+
+.animate-folio-sheet-prev {
+  transform-origin: left center;
+  will-change: transform, opacity;
+  box-shadow: 28px 10px 48px rgba(10, 5, 1, 0.45);
+  animation: folioSheetTurnPrev 1.05s cubic-bezier(0.22, 1, 0.36, 1) forwards;
+}
+
+.animate-folio-under-shadow {
+  transform-origin: left center;
+  background: linear-gradient(
+    98deg,
+    rgba(15, 7, 2, 0.52) 0%,
+    rgba(15, 7, 2, 0.24) 48%,
+    transparent 92%
+  );
+  will-change: transform, opacity;
+  animation: folioUnderShadowSweep 1.05s cubic-bezier(0.4, 0, 0.2, 1) forwards;
+}
+
+/* Gold-Tooled Leather Hardcover Textbook Binding */
+.textbook-cover {
+  background:
+    radial-gradient(circle at 50% 50%, rgba(78, 42, 18, 0.4), rgba(24, 12, 5, 0.95)),
+    linear-gradient(135deg, #3c1f0e 0%, #241106 50%, #381c0b 100%);
+  border: 2px solid #8c6639;
+  box-shadow:
+    0 26px 65px rgba(5, 2, 0, 0.82),
+    inset 0 0 0 3px #2a1408,
+    inset 0 0 0 5px rgba(184, 138, 72, 0.55),
+    inset 0 0 24px rgba(0, 0, 0, 0.8);
+}
+
+.textbook-left-page {
+  background-color: #f4e8cf;
+  background-image:
+    linear-gradient(to right, rgba(95, 56, 24, 0.22) 0%, rgba(95, 56, 24, 0.04) 9%, transparent 72%, rgba(43, 25, 10, 0.22) 96%, rgba(22, 12, 4, 0.45) 100%),
+    repeating-linear-gradient(0deg, rgba(95, 60, 28, 0.018) 0px, rgba(95, 60, 28, 0.018) 1px, transparent 1px, transparent 3px);
+  box-shadow:
+    inset 0 0 35px rgba(120, 78, 36, 0.18),
+    -4px 2px 0 #e2d2b2,
+    -8px 5px 0 #cebc98,
+    -12px 8px 0 #b8a37c,
+    -16px 11px 18px rgba(0, 0, 0, 0.45);
+}
+
+.textbook-right-page {
+  background-color: #f4e8cf;
+  background-image:
+    linear-gradient(to left, rgba(95, 56, 24, 0.22) 0%, rgba(95, 56, 24, 0.04) 9%, transparent 72%, rgba(43, 25, 10, 0.22) 96%, rgba(22, 12, 4, 0.45) 100%),
+    repeating-linear-gradient(0deg, rgba(95, 60, 28, 0.018) 0px, rgba(95, 60, 28, 0.018) 1px, transparent 1px, transparent 3px);
+  box-shadow:
+    inset 0 0 35px rgba(120, 78, 36, 0.18),
+    4px 2px 0 #e2d2b2,
+    8px 5px 0 #cebc98,
+    12px 8px 0 #b8a37c,
+    16px 11px 18px rgba(0, 0, 0, 0.45);
+}
+
+/* Subtle vintage scrollbar inside textbook pages when needed */
+.vintage-scroll::-webkit-scrollbar {
+  width: 6px;
+}
+.vintage-scroll::-webkit-scrollbar-track {
+  background: rgba(140, 98, 57, 0.12);
+}
+.vintage-scroll::-webkit-scrollbar-thumb {
+  background: rgba(107, 68, 35, 0.5);
+  border-radius: 2px;
+}
